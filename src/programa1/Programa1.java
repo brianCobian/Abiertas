@@ -19,6 +19,7 @@ public class Programa1 {
         do{
         Scanner number = new Scanner(System.in);
         int menu;
+        System.out.println("Nepoide");
         System.out.println("[1] Evaluar un resultado de 3 dados");
         System.out.println("[2] Leer numeros mayores de 20");
         System.out.println("[3] Multiplicacion");
